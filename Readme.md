@@ -1,4 +1,3 @@
 ## Sample project for Pipelines Jenkinsfile Demo
 
-### Flask
-### Pytest
+### Using Python pytest and Flask
